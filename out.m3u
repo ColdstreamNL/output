@@ -1,0 +1,1019 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="141430714" tvg-name="3103_TV01" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155426831zyo.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430714&format=mpd&playbill={catchup-id}",NPO 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430714&format=mpd
+#EXTINF:-1 tvg-id="147053128" tvg-name="3103_TV02" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190619/201906191004386431tc.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=147053128&format=mpd&playbill={catchup-id}",NPO 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=147053128&format=mpd
+#EXTINF:-1 tvg-id="141430597" tvg-name="3103_TV03" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155436628p9y.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430597&format=mpd&playbill={catchup-id}",NPO 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430597&format=mpd
+#EXTINF:-1 tvg-id="155053485" tvg-name="3103_RTL4" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202305/20230516/49/20230516125943245gx5.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=155053485&format=mpd&playbill={catchup-id}",RTL 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=155053485||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=155053485&format=mpd
+#EXTINF:-1 tvg-id="149441994" tvg-name="3103_RTL5" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202305/20230516/63/20230516130134918e8a.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=149441994&format=mpd&playbill={catchup-id}",RTL 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=149441994||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=149441994&format=mpd
+#EXTINF:-1 tvg-id="141430106" tvg-name="3103_SBS6" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202301/20230110/30/202301100916256988n9.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430106&format=mpd&playbill={catchup-id}",SBS 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141430106||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141430106&format=mpd
+#EXTINF:-1 tvg-id="141430922" tvg-name="3103_RTL7" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202305/20230516/59/202305161302380493m4.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430922&format=mpd&playbill={catchup-id}",RTL 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141430922||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141430922&format=mpd
+#EXTINF:-1 tvg-id="141430837" tvg-name="3103_VERO" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/2019061415545461331g.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430837&format=mpd&playbill={catchup-id}",Veronica  Disney XD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141430837||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141430837&format=mpd
+#EXTINF:-1 tvg-id="141431367" tvg-name="3103_NET5" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202308/20230823/5/20230823122234883gav.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431367&format=mpd&playbill={catchup-id}",NET 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141431367||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141431367&format=mpd
+#EXTINF:-1 tvg-id="141430473" tvg-name="3103_RTL8" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202305/20230516/76/20230516130043065zlh.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430473&format=mpd&playbill={catchup-id}",RTL 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141430473||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141430473&format=mpd
+#EXTINF:-1 tvg-id="141430236" tvg-name="3103_RTLZ" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202306/20230628/47/20230628095214864fwz.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430236&format=mpd&playbill={catchup-id}",RTL Z
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430236&format=mpd
+#EXTINF:-1 tvg-id="150504894" tvg-name="3103_SBS9" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202404/20240405/72/20240405085814895oh3.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=150504894&format=mpd&playbill={catchup-id}",Viaplay TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=150504894||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=150504894&format=mpd
+#EXTINF:-1 tvg-id="141430439" tvg-name="3103_COMC" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155507636nxy.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430439&format=mpd&playbill={catchup-id}",Comedy Central
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141430439||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141430439&format=mpd
+#EXTINF:-1 tvg-id="141429374" tvg-name="3103_MTV_" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155500659emy.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429374&format=mpd&playbill={catchup-id}",MTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141429374||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141429374&format=mpd
+#EXTINF:-1 tvg-id="150544190" tvg-name="3103_FOX" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202311/20231101/22/20231101074954893i2c.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=150544190&format=mpd&playbill={catchup-id}",STAR Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=150544190||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=150544190&format=mpd
+#EXTINF:-1 tvg-id="141429297" tvg-name="3103_ANPL" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220705/13/20220705064035648ggp.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429297&format=mpd&playbill={catchup-id}",TLC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429297&format=mpd
+#EXTINF:-1 tvg-id="184216056" tvg-name="3103_ZVDM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202309/20230905/84/20230905085707983cqe.png",Zender van de Maand
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=184216056&format=mpd
+#EXTINF:-1 tvg-id="141429532" tvg-name="3103_SPIKE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202205/20220524/91/202205240814049060u0.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429532&format=mpd&playbill={catchup-id}",Paramount Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141429532||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141429532&format=mpd
+#EXTINF:-1 tvg-id="141430463" tvg-name="3103_NICK" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155420629qbt.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430463&format=mpd&playbill={catchup-id}",Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141430463||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141430463&format=mpd
+#EXTINF:-1 tvg-id="141429669" tvg-name="3103_EEN_" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202305/20230508/55/20230508073254986u8e.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429669&format=mpd&playbill={catchup-id}",VRT1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141429669||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141429669&format=mpd
+#EXTINF:-1 tvg-id="141431638" tvg-name="3103_CANV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201907/20190731/20190731083837231dk8.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431638&format=mpd&playbill={catchup-id}",Canvas
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141431638||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141431638&format=mpd
+#EXTINF:-1 tvg-id="203002308" tvg-name="3103_KETN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201908/20190807/20190807132815418zq7.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=203002308&format=mpd&playbill={catchup-id}",Ketnet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=203002308||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=203002308&format=mpd
+#EXTINF:-1 tvg-id="141429712" tvg-name="3103_24KIT" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201907/20190731/20190731085917699d6h.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429712&format=mpd&playbill={catchup-id}",24Kitchen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141429712||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141429712&format=mpd
+#EXTINF:-1 tvg-id="141430970" tvg-name="3103_DSN1" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202208/20220824/76/20220824124104857j8h.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430970&format=mpd&playbill={catchup-id}",Disney Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430970&format=mpd
+#EXTINF:-1 tvg-id="1579788674" tvg-name="3103_HGTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202401/20240110/15/20240110084119037zwu.png",HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=1579788674||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=1579788674&format=mpd
+#EXTINF:-1 tvg-id="141430551" tvg-name="3103_XITE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202403/20240319/7/20240319125249870cyb.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430551&format=mpd&playbill={catchup-id}",XITE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430551&format=mpd
+#EXTINF:-1 tvg-id="141429883" tvg-name="3103_NAGE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155437651xfy.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429883&format=mpd&playbill={catchup-id}",National Geographic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141429883||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141429883&format=mpd
+#EXTINF:-1 tvg-id="141429409" tvg-name="3103_DISC" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201909/20190923/20190923120854370bhs.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429409&format=mpd&playbill={catchup-id}",Discovery
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429409&format=mpd
+#EXTINF:-1 tvg-id="141426349" tvg-name="3103_DTAL" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202011/20201118/84/2020111809152386205z.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141426349&format=mpd&playbill={catchup-id}",ID
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141426349&format=mpd
+#EXTINF:-1 tvg-id="141429026" tvg-name="3103_APHD" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155458628wxc.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429026&format=mpd&playbill={catchup-id}",Animal Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141429026||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141429026&format=mpd
+#EXTINF:-1 tvg-id="141430738" tvg-name="3103_WILD" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201908/20190823/201908231045227056wy.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430738&format=mpd&playbill={catchup-id}",Nat Geo Wild
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141430738||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141430738&format=mpd
+#EXTINF:-1 tvg-id="141430036" tvg-name="3103_101_" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155502755fk7.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430036&format=mpd&playbill={catchup-id}",NPO 1 Extra
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430036&format=mpd
+#EXTINF:-1 tvg-id="141430280" tvg-name="3103_CULT" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155501642qzx.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430280&format=mpd&playbill={catchup-id}",NPO 2 Extra
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430280&format=mpd
+#EXTINF:-1 tvg-id="141430304" tvg-name="3103_PO24" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202112/20211215/35/20211215095223424lr8.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430304&format=mpd&playbill={catchup-id}",NPO Politiek en Nieuws
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430304&format=mpd
+#EXTINF:-1 tvg-id="141430874" tvg-name="3103_HIST" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202004/20200403/20200403120336237460.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430874&format=mpd&playbill={catchup-id}",History Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430874&format=mpd
+#EXTINF:-1 tvg-id="141429385" tvg-name="3103_BBCFST" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155454641w8n.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429385&format=mpd&playbill={catchup-id}",BBC First
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429385&format=mpd
+#EXTINF:-1 tvg-id="141431706" tvg-name="3103_BBC1" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155307603wl8.png",BBC One
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141431706&format=mpd
+#EXTINF:-1 tvg-id="141429351" tvg-name="3103_BBC2" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155322616ki5.png",BBC Two
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429351&format=mpd
+#EXTINF:-1 tvg-id="141428593" tvg-name="3103_EURO" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155345680t7q.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141428593&format=mpd&playbill={catchup-id}",Eurosport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141428593||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141428593&format=mpd
+#EXTINF:-1 tvg-id="141428549" tvg-name="3103_EUR2" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155442651q0j.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141428549&format=mpd&playbill={catchup-id}",Eurosport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141428549||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141428549&format=mpd
+#EXTINF:-1 tvg-id="141429798" tvg-name="3103_FS1" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202012/20201230/24/20201230083418013jkl.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429798&format=mpd&playbill={catchup-id}",ESPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141429798||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141429798&format=mpd
+#EXTINF:-1 tvg-id="141428461" tvg-name="3103_RTLT" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202306/20230628/95/202306281025299030id.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141428461&format=mpd&playbill={catchup-id}",RTL Telekids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141428461||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141428461&format=mpd
+#EXTINF:-1 tvg-id="141429220" tvg-name="3103_NIJN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155512608upx.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429220&format=mpd&playbill={catchup-id}",Nick Jr.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141429220||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141429220&format=mpd
+#EXTINF:-1 tvg-id="141430415" tvg-name="3103_NIKT" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201909/20190903/201909031704028332cz.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430415&format=mpd&playbill={catchup-id}",Nick Toons
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141430415||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141430415&format=mpd
+#EXTINF:-1 tvg-id="141431319" tvg-name="3103_NICKM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/201906141554267724m4.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431319&format=mpd&playbill={catchup-id}",Nick Music
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141431319||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141431319&format=mpd
+#EXTINF:-1 tvg-id="141430835" tvg-name="3103_CART" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201909/20190903/20190903170442699bbi.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430835&format=mpd&playbill={catchup-id}",Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141430835||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141430835&format=mpd
+#EXTINF:-1 tvg-id="141430346" tvg-name="3103_PEBB" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155408630g1q.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430346&format=mpd&playbill={catchup-id}",Pebble TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430346&format=mpd
+#EXTINF:-1 tvg-id="141428959" tvg-name="3103_DUCK" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/201906141553317127es.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141428959&format=mpd&playbill={catchup-id}",Duck TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141428959&format=mpd
+#EXTINF:-1 tvg-id="141431168" tvg-name="3103_BOOM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202303/20230320/11/20230320081223070v01.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431168&format=mpd&playbill={catchup-id}",Cartoonito
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141431168||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141431168&format=mpd
+#EXTINF:-1 tvg-id="141429273" tvg-name="3103_BABYTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155347652k8x.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429273&format=mpd&playbill={catchup-id}",BabyTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429273&format=mpd
+#EXTINF:-1 tvg-id="141429839" tvg-name="3103_MTVB" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202101/20210101/96/20210101102943319t4k.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429839&format=mpd&playbill={catchup-id}",MTV Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141429839||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141429839&format=mpd
+#EXTINF:-1 tvg-id="141428765" tvg-name="3103_MT24" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202105/20210531/80/202105311301486946mv.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141428765&format=mpd&playbill={catchup-id}",MTV 90s
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141428765||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141428765&format=mpd
+#EXTINF:-1 tvg-id="141429931" tvg-name="3103_MTVLH" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201907/20190719/20190719134257795pt0.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429931&format=mpd&playbill={catchup-id}",MTV Live
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141429931||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141429931&format=mpd
+#EXTINF:-1 tvg-id="141428523" tvg-name="3103_SLTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202112/20211206/8/20211206130416681r5t.png",SLAM!TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141428523&format=mpd
+#EXTINF:-1 tvg-id="141428823" tvg-name="3103_ICON" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/201906141553396382mh.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141428823&format=mpd&playbill={catchup-id}",Stingray I-Concerts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141428823&format=mpd
+#EXTINF:-1 tvg-id="141431235" tvg-name="3103_TVOR" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155241605q8c.png",TV Oranje
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141431235&format=mpd
+#EXTINF:-1 tvg-id="141431213" tvg-name="3103_SCTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155222630gpb.png",SchlagerTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141431213&format=mpd
+#EXTINF:-1 tvg-id="141430158" tvg-name="3103_LITE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/201906141555076374pq.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430158&format=mpd&playbill={catchup-id}",Stingray Lite TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430158&format=mpd
+#EXTINF:-1 tvg-id="141429689" tvg-name="3103_192TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155240671nr3.png",192TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429689&format=mpd
+#EXTINF:-1 tvg-id="141431538" tvg-name="3103_VH1_" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202108/20210802/29/20210802063641028tb2.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431538&format=mpd&playbill={catchup-id}",MTV 00s
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141431538||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141431538&format=mpd
+#EXTINF:-1 tvg-id="141431391" tvg-name="3103_VH1C" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202010/20201008/16/20201008115126625hey.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431391&format=mpd&playbill={catchup-id}",MTV 80s
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141431391||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141431391&format=mpd
+#EXTINF:-1 tvg-id="141430850" tvg-name="3103_DJAZZ" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155453632ggi.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430850&format=mpd&playbill={catchup-id}",Stingray Djazz
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430850&format=mpd
+#EXTINF:-1 tvg-id="141431450" tvg-name="3103_TRACE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155434778fee.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431450&format=mpd&playbill={catchup-id}",Trace Urban
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141431450&format=mpd
+#EXTINF:-1 tvg-id="141431033" tvg-name="3103_CNN_" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155507628et9.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431033&format=mpd&playbill={catchup-id}",CNN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141431033&format=mpd
+#EXTINF:-1 tvg-id="141430145" tvg-name="3103_BBCW" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155335630i2e.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141430145&format=mpd&playbill={catchup-id}",BBC World News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430145&format=mpd
+#EXTINF:-1 tvg-id="141428719" tvg-name="3103_EURN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201907/20190719/20190719134847933239.png",Euronews
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141428719||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141428719&format=mpd
+#EXTINF:-1 tvg-id="141429484" tvg-name="3103_FASHHD" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155459768g3h.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429484&format=mpd&playbill={catchup-id}",Fashion TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429484&format=mpd
+#EXTINF:-1 tvg-id="141431101" tvg-name="3103_MZEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155427654etc.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431101&format=mpd&playbill={catchup-id}",MyZEN TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141431101&format=mpd
+#EXTINF:-1 tvg-id="141431752" tvg-name="3103_BRNL" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201907/20190717/2019071712493914774u.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431752&format=mpd&playbill={catchup-id}",Stingray Classica
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141431752&format=mpd
+#EXTINF:-1 tvg-id="141431343" tvg-name="3103_BRHD" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201911/20191114/20191114090213913f5g.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431343&format=mpd&playbill={catchup-id}",Stingray Classica HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141431343&format=mpd
+#EXTINF:-1 tvg-id="141429092" tvg-name="3103_MEZZ" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155228625f9y.png",Mezzo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429092&format=mpd
+#EXTINF:-1 tvg-id="141430062" tvg-name="3103_ARD_" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155204655a8z.png",Das Erste (ARD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430062&format=mpd
+#EXTINF:-1 tvg-id="141428399" tvg-name="3103_ZDF_" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155211613ddz.png",ZDF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141428399&format=mpd
+#EXTINF:-1 tvg-id="141430190" tvg-name="3103_WDR_" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155225615s3z.png",WDR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430190&format=mpd
+#EXTINF:-1 tvg-id="141431121" tvg-name="3103_T5ME" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202112/20211206/5/202112061653567099ra.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431121&format=mpd&playbill={catchup-id}",TV5Monde Europe HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141431121&format=mpd
+#EXTINF:-1 tvg-id="141428573" tvg-name="3103_NORH" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202211/20221128/60/2022112808075986131w.png",NH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141428573&format=mpd
+#EXTINF:-1 tvg-id="141429114" tvg-name="3103_AT5_" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155436643x85.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141429114&format=mpd&playbill={catchup-id}",AT5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429114&format=mpd
+#EXTINF:-1 tvg-id="141430645" tvg-name="3103_WEST" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155206643oc6.png",TV West
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430645&format=mpd
+#EXTINF:-1 tvg-id="141429863" tvg-name="3103_OFRY" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155219614ewx.png",Omrop Fryslan
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429863&format=mpd
+#EXTINF:-1 tvg-id="141429628" tvg-name="3103_NOOR" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/201906141551506152gm.png",TV Noord
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429628&format=mpd
+#EXTINF:-1 tvg-id="141428679" tvg-name="3103_TVDR" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202201/20220125/75/20220125111738369bw3.png",RTV Drenthe
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141428679&format=mpd
+#EXTINF:-1 tvg-id="141429758" tvg-name="3103_OOST" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202404/20240402/9/20240402115853033d2p.png",Oost
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429758&format=mpd
+#EXTINF:-1 tvg-id="141428745" tvg-name="3103_FLEV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155159629ksq.png",Omroep Flevoland TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141428745&format=mpd
+#EXTINF:-1 tvg-id="141428403" tvg-name="3103_REGU" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155235635cxy.png",Regio TV Utrecht
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141428403&format=mpd
+#EXTINF:-1 tvg-id="153905661" tvg-name="3103_GELD" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190625/201906251442091479j1.png",TV Gelderland
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=153905661&format=mpd
+#EXTINF:-1 tvg-id="141429975" tvg-name="3103_RIJN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201908/20190829/20190829075437064ggg.png",TV Rijnmond
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429975&format=mpd
+#EXTINF:-1 tvg-id="141430259" tvg-name="3103_OZEE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/20190614155148609pjy.png",Omroep Zeeland
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430259&format=mpd
+#EXTINF:-1 tvg-id="141430815" tvg-name="3103_BRAB" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/201906141552126514r7.png",Omroep Brabant
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141430815&format=mpd
+#EXTINF:-1 tvg-id="141429331" tvg-name="3103_L1TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202403/20240311/27/20240311082729851og9.png",L1 TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141429331&format=mpd
+#EXTINF:-1 tvg-id="1282999666" tvg-name="3103_TIVI" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202210/20221013/10/20221013101431897073.png",RTV-7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1282999666&format=mpd
+#EXTINF:-1 tvg-id="141431057" tvg-name="3103_TV538" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201906/20190614/201906141555076537mi.png" catchup="vod" catchup-days="7" catchup-source="http://127.0.0.1:5000/api/channel?id=141431057&format=mpd&playbill={catchup-id}",TV538
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:5000/api/license?id=141431057||R{SSM}|
+http://127.0.0.1:5000/api/channel?id=141431057&format=mpd
+#EXTINF:-1 tvg-id="141521930" tvg-name="3103_SIRIS" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624091853640fav.png",SIRIS TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141521930&format=mpd
+#EXTINF:-1 tvg-id="141432870" tvg-name="3103_KEMPENTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624092003560djy.png",KempenTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141432870&format=mpd
+#EXTINF:-1 tvg-id="141433772" tvg-name="3103_RN7" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212114422951qd7.png",RN7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433772&format=mpd
+#EXTINF:-1 tvg-id="141522043" tvg-name="3103_LINQ" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200629/202006290925386498bk.png",LINQ TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522043&format=mpd
+#EXTINF:-1 tvg-id="141433032" tvg-name="3103_ZO_NWS" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202201/20220124/91/202201241339533238sd.png",ZO-NWS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433032&format=mpd
+#EXTINF:-1 tvg-id="141522370" tvg-name="3103_SCHIE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202401/20240108/76/20240108095048839t63.png",TWEE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522370&format=mpd
+#EXTINF:-1 tvg-id="141433488" tvg-name="3103_WOS" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624092233614qhm.png",WOS TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433488&format=mpd
+#EXTINF:-1 tvg-id="141434288" tvg-name="3103_MEER" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624092309610flv.png",Meer TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434288&format=mpd
+#EXTINF:-1 tvg-id="141434108" tvg-name="3103_ORTS" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624092349601kty.png",ORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434108&format=mpd
+#EXTINF:-1 tvg-id="155053812" tvg-name="3103_OMROEP_MEIERIJ" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202301/20230125/36/202301250955448065sy.png",Omroep Meierij TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=155053812&format=mpd
+#EXTINF:-1 tvg-id="141434088" tvg-name="3103_STUDIO_040" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/202006240925235833gn.png",Studio040 TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434088&format=mpd
+#EXTINF:-1 tvg-id="628207569" tvg-name="3103_LELYSTADTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202009/20200914/89/20200914150816365ahd.png",Lelystad TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=628207569&format=mpd
+#EXTINF:-1 tvg-id="141434209" tvg-name="3103_OPEN_ROTTERDAM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624092604718s2z.png",Open Rotterdam
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434209&format=mpd
+#EXTINF:-1 tvg-id="141522495" tvg-name="3103_BREDANU" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/201912121120428292qn.png",BredaNu
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522495&format=mpd
+#EXTINF:-1 tvg-id="141432968" tvg-name="3103_DTV_OSS" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624092644595xhr.png",DTV-OSS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141432968&format=mpd
+#EXTINF:-1 tvg-id="857998409" tvg-name="3103_LANGSTRAATTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202103/20210325/85/20210325143643362kga.png",Langstraat TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=857998409&format=mpd
+#EXTINF:-1 tvg-id="141522178" tvg-name="3103_HAARLEM105_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/202006240927085435zz.png",HAARLEM105-tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522178&format=mpd
+#EXTINF:-1 tvg-id="141522003" tvg-name="3103_RTV_DORDRECHT" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624092749631o0r.jpg",RTV Dordrecht
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522003&format=mpd
+#EXTINF:-1 tvg-id="141433034" tvg-name="3103_RTV_LANSINGERLAND" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624092903553syz.png",RTV Lansingerland Berkel en Rodenrijs
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433034&format=mpd
+#EXTINF:-1 tvg-id="204029123" tvg-name="3103_1TWENTE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624092933535ga3.png",1Twente
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=204029123&format=mpd
+#EXTINF:-1 tvg-id="141522271" tvg-name="3103_RTV_ARNHEM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202111/20211122/52/20211122083626468xtw.png",RTV Connect
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522271&format=mpd
+#EXTINF:-1 tvg-id="1166350355" tvg-name="3103_RTV_ELBURG" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202203/20220322/77/20220322151551771dd9.png",RTV Elburg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1166350355&format=mpd
+#EXTINF:-1 tvg-id="141521959" tvg-name="3103_RTVSLINGELAND" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624093043656dm0.png",RTVSlingeland
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141521959&format=mpd
+#EXTINF:-1 tvg-id="141432928" tvg-name="3103_A1" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/202006240931098379qf.png",A1 Regio TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141432928&format=mpd
+#EXTINF:-1 tvg-id="141433875" tvg-name="3103_SALTO_1" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624093159713ymx.png",Salto 1 (Amsterdam)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433875&format=mpd
+#EXTINF:-1 tvg-id="649012650" tvg-name="3103_SOL2" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202009/20200929/28/20200929163845699ykv.png",SOL2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=649012650&format=mpd
+#EXTINF:-1 tvg-id="141433276" tvg-name="3103_TV_MAASTRICHT" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624093248590hoz.png",RTV Maastricht
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433276&format=mpd
+#EXTINF:-1 tvg-id="141433070" tvg-name="3103_TV_HOEKSCHE_WAARD" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624093319598dlu.png",TV Hoeksche Waard
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433070&format=mpd
+#EXTINF:-1 tvg-id="141433836" tvg-name="3103_VOSTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624093348661reh.png",VOSTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433836&format=mpd
+#EXTINF:-1 tvg-id="141433114" tvg-name="3103_BO" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212111858002vva.png",Bo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433114&format=mpd
+#EXTINF:-1 tvg-id="141522147" tvg-name="3103_ZFMINFOBOX" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/2020062409354461219r.png",ZFMInfobox
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522147&format=mpd
+#EXTINF:-1 tvg-id="141433316" tvg-name="3103_STUDIO_ALPHEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212121337793hfo.png",Studio Alphen TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433316&format=mpd
+#EXTINF:-1 tvg-id="649013094" tvg-name="3103_REGIO_TV_DE_BILT" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202009/20200929/34/202009291645167169ta.png",Regio TV de Bilt
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=649013094&format=mpd
+#EXTINF:-1 tvg-id="155053827" tvg-name="3103_MERWE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624093613501jk3.png",Merwe TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=155053827&format=mpd
+#EXTINF:-1 tvg-id="141522362" tvg-name="3103_OMROEP_BERG" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624093649610mln.png",Omroep Berg en Dal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522362&format=mpd
+#EXTINF:-1 tvg-id="141522322" tvg-name="3103_FEEL" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/2020062409372459825r.png",Feel Good TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522322&format=mpd
+#EXTINF:-1 tvg-id="1581828361" tvg-name="3103_Haaglanden_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202402/20240202/39/20240202083710788dqp.png",Haaglanden TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1581828361&format=mpd
+#EXTINF:-1 tvg-id="141432907" tvg-name="3103_IDEAAL" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624093828671pe1.png",Ideaal TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141432907&format=mpd
+#EXTINF:-1 tvg-id="649012659" tvg-name="3103_OMROEP_HULST_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202009/20200929/42/20200929165110763ye8.png",Omroep Hulst TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=649012659&format=mpd
+#EXTINF:-1 tvg-id="141434392" tvg-name="3103_HALLOGILZERIJEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212114857946sp4.png",HalloGilzeRijen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434392&format=mpd
+#EXTINF:-1 tvg-id="1154012375" tvg-name="3103_SPAKENBURG" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202301/20230104/80/20230104075059805ky4.png",Eemland 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1154012375&format=mpd
+#EXTINF:-1 tvg-id="141522054" tvg-name="3103_TV_350" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212114332798cor.png",TV 350
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522054&format=mpd
+#EXTINF:-1 tvg-id="141433001" tvg-name="3103_TV_HATTEM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212115017782psy.png",TV Hattem
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433001&format=mpd
+#EXTINF:-1 tvg-id="141432932" tvg-name="3103_CENTRAAL" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220721/90/20220721114419858wr4.png",Omroep PeelRand
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141432932&format=mpd
+#EXTINF:-1 tvg-id="141433460" tvg-name="3103_TV_NUNSPEET" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624094003700vf6.png",TV Nunspeet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433460&format=mpd
+#EXTINF:-1 tvg-id="824100059" tvg-name="3103_OMROEP_REINDONK" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202306/20230601/19/20230601125029811pdh.png",Omroep Horst aan de Maas
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=824100059&format=mpd
+#EXTINF:-1 tvg-id="141433628" tvg-name="3103_TV_BODEGRAVEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202007/20200716/20200716120214372n2a.png",BR6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433628&format=mpd
+#EXTINF:-1 tvg-id="141432868" tvg-name="3103_SLOG" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624094129636wuc.jpg",SLOG TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141432868&format=mpd
+#EXTINF:-1 tvg-id="242923055" tvg-name="3103_SRC" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200629/20200629092604601gqf.jpg",SRC TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=242923055&format=mpd
+#EXTINF:-1 tvg-id="657214292" tvg-name="3103_KIJK_ALMERE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202111/20211126/0/20211126071711686zi6.png",1Almere TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=657214292&format=mpd
+#EXTINF:-1 tvg-id="141433152" tvg-name="3103_RTV_KATWIJK" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624094203555lh2.png",RTV Katwijk
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433152&format=mpd
+#EXTINF:-1 tvg-id="141434352" tvg-name="3103_OMROEP_ML5" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200629/20200629092633561ba5.png",Omroep ML5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434352&format=mpd
+#EXTINF:-1 tvg-id="141433420" tvg-name="3103_BEATTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624094234617djc.png",BEATTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433420&format=mpd
+#EXTINF:-1 tvg-id="141522094" tvg-name="3103_SALLAND1" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202106/20210611/86/202106111210104079uu.png",Salland1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522094&format=mpd
+#EXTINF:-1 tvg-id="1288853475" tvg-name="3103_WeertTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202210/20221027/32/20221027112316452v63.png",WeertFM TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1288853475&format=mpd
+#EXTINF:-1 tvg-id="141434124" tvg-name="3103_OMROEP_SUDWEST" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/202006240943135879wj.png",Omroep Sudwest
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434124&format=mpd
+#EXTINF:-1 tvg-id="1247083943" tvg-name="3103_REGIO_FM_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220721/43/202207211428547919b9.png",Regio FM TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1247083943&format=mpd
+#EXTINF:-1 tvg-id="141522415" tvg-name="3103_RTV_RIDDERKERK" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212115957997m46.png",RTV Ridderkerk
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522415&format=mpd
+#EXTINF:-1 tvg-id="141522186" tvg-name="3103_OMROEP_HELMOND" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202011/20201109/0/20201109094748815c6e.png",Dit is Helmond
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522186&format=mpd
+#EXTINF:-1 tvg-id="141433092" tvg-name="3103_REGIO8" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624094509600jok.png",Regio8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433092&format=mpd
+#EXTINF:-1 tvg-id="141434556" tvg-name="3103_RTV_APELDOORN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202203/20220309/44/20220309130819848vsy.png",Samen1 TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434556&format=mpd
+#EXTINF:-1 tvg-id="141434580" tvg-name="3103_EENTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220712/7/20220712082425638lef.jpg",EENTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434580&format=mpd
+#EXTINF:-1 tvg-id="141434412" tvg-name="3103_VECHTDAL" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624094624658rf4.png",Vechtdal Leeft TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434412&format=mpd
+#EXTINF:-1 tvg-id="141433712" tvg-name="3103_OOGTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/2019121211404278915s.png",OOGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433712&format=mpd
+#EXTINF:-1 tvg-id="141522457" tvg-name="3103_SALTO_2" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624094653549hkb.png",Salto 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522457&format=mpd
+#EXTINF:-1 tvg-id="141434620" tvg-name="3103_RTV_IJSSELMOND" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624094733564xxq.png",RTV IJsselmond
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434620&format=mpd
+#EXTINF:-1 tvg-id="141433216" tvg-name="3103_RTV_SLOGO" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/201912121202479763t0.png",RTV Slogo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433216&format=mpd
+#EXTINF:-1 tvg-id="1247091506" tvg-name="3103_ZO34" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220721/44/20220721144039789ikl.png",ZO!34
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1247091506&format=mpd
+#EXTINF:-1 tvg-id="141433528" tvg-name="3103_RTV_ZWOLLE_FM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202110/20211028/13/20211028105513897z4g.jpg",RTV Focus Zwolle
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433528&format=mpd
+#EXTINF:-1 tvg-id="141521858" tvg-name="3103_OMROEP_PM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202102/20210202/50/202102020948530610i2.png",Omroep P&M
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141521858&format=mpd
+#EXTINF:-1 tvg-id="141433666" tvg-name="3103_DELTA" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624094934611fux.png",Delta TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433666&format=mpd
+#EXTINF:-1 tvg-id="141433916" tvg-name="3103_NOOS" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624095003553a80.png",NOOS TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433916&format=mpd
+#EXTINF:-1 tvg-id="141522242" tvg-name="3103_D_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/202006240950395930pw.png",D-TV Maashorst
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522242&format=mpd
+#EXTINF:-1 tvg-id="141521819" tvg-name="3103_TWENTE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200629/2020062909275959412u.png",Twente TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141521819&format=mpd
+#EXTINF:-1 tvg-id="141432544" tvg-name="3103_LON_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624095113620c3m.jpg",LON-tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141432544&format=mpd
+#EXTINF:-1 tvg-id="141433104" tvg-name="3103_ZUIDWEST" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212121812957jfg.png",ZuidWest TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433104&format=mpd
+#EXTINF:-1 tvg-id="141433346" tvg-name="3103_RTV_RIJNSTREEK" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200629/20200629092838632e3l.png",RTV Rijnstreek
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433346&format=mpd
+#EXTINF:-1 tvg-id="141521719" tvg-name="3103_TV_VALKENBURG" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/202006240951446073mt.png",TV Valkenburg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141521719&format=mpd
+#EXTINF:-1 tvg-id="141521742" tvg-name="3103_LEO" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202306/20230622/1/202306221049598802c8.png",Omroep Leeuwarden
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141521742&format=mpd
+#EXTINF:-1 tvg-id="141433440" tvg-name="3103_OMROEP_VELDHOVEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624095249598vdk.png",Omroep Veldhoven
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433440&format=mpd
+#EXTINF:-1 tvg-id="141433404" tvg-name="3103_LOKALE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202007/20200701/202007010947347353ku.png",BIE OS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433404&format=mpd
+#EXTINF:-1 tvg-id="1122862252" tvg-name="3103_NHGOOI" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202201/20220110/29/20220110091140137t7d.png",NH Gooi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1122862252&format=mpd
+#EXTINF:-1 tvg-id="141522167" tvg-name="3103_STREEKTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202007/20200710/20200710131701181rwy.png",DNO TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522167&format=mpd
+#EXTINF:-1 tvg-id="141434208" tvg-name="3103_HOFSTREEK" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624095459680u3s.png",Hofstreek TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434208&format=mpd
+#EXTINF:-1 tvg-id="141433336" tvg-name="3103_OPEN_PODIUM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202007/20200716/20200716115506188qv8.png",Rotterdam Podium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433336&format=mpd
+#EXTINF:-1 tvg-id="141434476" tvg-name="3103_AAVISIE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212111627796c4o.png",AAVISIE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434476&format=mpd
+#EXTINF:-1 tvg-id="141522435" tvg-name="3103_SCHAGEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624095528612rmd.png",Noordkop Centraal TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522435&format=mpd
+#EXTINF:-1 tvg-id="141522377" tvg-name="3103_RTV_AMSTELVEEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202404/20240424/50/20240424125314860x97.png",1Amstelveen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522377&format=mpd
+#EXTINF:-1 tvg-id="269904576" tvg-name="3103_LOVE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202007/20200710/202007101322385844yy.png",L.O.V.E. TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=269904576&format=mpd
+#EXTINF:-1 tvg-id="141433790" tvg-name="3103_OMROEP_VENLO" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624095633565p58.png",Omroep Venlo TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433790&format=mpd
+#EXTINF:-1 tvg-id="141522127" tvg-name="3103_TV_KRANT_WESTBRABANT" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202007/20200701/20200701145503538hu2.png",TV Krant Rucphen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522127&format=mpd
+#EXTINF:-1 tvg-id="141522342" tvg-name="3103_RTV_MEPPEL" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624095733549ym1.jpg",RTV Meppel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522342&format=mpd
+#EXTINF:-1 tvg-id="141433548" tvg-name="3103_HOITV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212112758068kj4.png",HoiTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433548&format=mpd
+#EXTINF:-1 tvg-id="141521782" tvg-name="3103_GL8" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624095814610lfe.png",GL8 Media
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141521782&format=mpd
+#EXTINF:-1 tvg-id="141434600" tvg-name="3103_OMROEP_PIM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/2019121211414294619v.png",Omroep PIM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434600&format=mpd
+#EXTINF:-1 tvg-id="141433156" tvg-name="3103_RTV_SLOS" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212120452959s3w.png",RTV Slos
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433156&format=mpd
+#EXTINF:-1 tvg-id="141433856" tvg-name="3103_UNITY_NU" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200629/20200629092943559sk9.png",Unity – Sleutelstad
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433856&format=mpd
+#EXTINF:-1 tvg-id="141434016" tvg-name="3103_RTV_PURMEREND" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624095843655xjz.png",RTV Purmerend
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434016&format=mpd
+#EXTINF:-1 tvg-id="204036988" tvg-name="3103_RTV_RONDE_VENEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624095913721d2d.png",RTV Ronde Venen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=204036988&format=mpd
+#EXTINF:-1 tvg-id="1185632492" tvg-name="3103_STUDIO_RHEDEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202204/20220419/68/20220419120729875v98.jpg",Studio Rheden TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1185632492&format=mpd
+#EXTINF:-1 tvg-id="141522530" tvg-name="3103_OMROEP_TILBURG" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/202006241000335428ug.png",Omroep Tilburg TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522530&format=mpd
+#EXTINF:-1 tvg-id="141433752" tvg-name="3103_DEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/2020062410013355446h.png",Den Haag TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433752&format=mpd
+#EXTINF:-1 tvg-id="1250017705" tvg-name="3103_TV_HORIZON" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220725/29/20220725092228725j3k.jpg",RTV Horizon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1250017705&format=mpd
+#EXTINF:-1 tvg-id="290233863" tvg-name="3103_RTV_PAPENDRECHT" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200625/20200625151748509ct4.png",RTV Papendrecht
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=290233863&format=mpd
+#EXTINF:-1 tvg-id="141521695" tvg-name="3103_RPL" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212114537853v5j.png",RPL Woerden
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141521695&format=mpd
+#EXTINF:-1 tvg-id="141434148" tvg-name="3103_OMROEP_ASSEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624100233540xsl.png",Omroep Assen TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434148&format=mpd
+#EXTINF:-1 tvg-id="141433568" tvg-name="3103_RTV1" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202203/20220314/18/2022031413381689372z.png",RTV1 Stadskanaal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433568&format=mpd
+#EXTINF:-1 tvg-id="141433384" tvg-name="3103_OMROEP_BEST" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/202006241002596042q2.jpg",Omroep Best TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433384&format=mpd
+#EXTINF:-1 tvg-id="141433648" tvg-name="3103_ATOS" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212111753063jbp.png",ATOS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433648&format=mpd
+#EXTINF:-1 tvg-id="141434496" tvg-name="3103_CASTRICUM" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202007/20200710/20200710132503593qmm.png",Castricum TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434496&format=mpd
+#EXTINF:-1 tvg-id="290233912" tvg-name="3103_RTV_KRIMPENERWAARD" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624100333497oiv.png",RTV Krimpenerwaard
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=290233912&format=mpd
+#EXTINF:-1 tvg-id="141433692" tvg-name="3103_LOS_DEN_HELDER" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624100404594mws.png",Regio Noordkop TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433692&format=mpd
+#EXTINF:-1 tvg-id="141433859" tvg-name="3103_GOOITV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624100428616gfs.png",GooiTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433859&format=mpd
+#EXTINF:-1 tvg-id="141521839" tvg-name="3103_EDE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202201/20220124/70/20220124132501911nsh.png",XON
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141521839&format=mpd
+#EXTINF:-1 tvg-id="141433236" tvg-name="3103_DTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202007/20200710/20200710132609739shj.png",DTV Den Bosch
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433236&format=mpd
+#EXTINF:-1 tvg-id="141522238" tvg-name="3103_SLOTSTAD" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/20200624100528554lvq.png",Slotstad TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522238&format=mpd
+#EXTINF:-1 tvg-id="153713538" tvg-name="3103_OMROEP" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202110/20211028/41/202110281023206823w0.png",Omroep Dommelland
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=153713538&format=mpd
+#EXTINF:-1 tvg-id="141522455" tvg-name="3103_RTV_IJMOND_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200624/202006241006096026ec.png",RTV Heemskerk
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522455&format=mpd
+#EXTINF:-1 tvg-id="141433996" tvg-name="3103_ALTENA" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/201912/20191212/20191212114637945u8q.png",Altena TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433996&format=mpd
+#EXTINF:-1 tvg-id="141522510" tvg-name="3103_CAPELLE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202006/20200629/20200629093014608rxw.png",Capelle TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141522510&format=mpd
+#EXTINF:-1 tvg-id="141434312" tvg-name="3103_RTV_KANAAL_30_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202110/20211028/39/20211028104828994ap5.png",RTV NOF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434312&format=mpd
+#EXTINF:-1 tvg-id="141433936" tvg-name="3103_GO_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220721/79/20220721143639839znd.png",GO-TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141433936&format=mpd
+#EXTINF:-1 tvg-id="141434660" tvg-name="3103_REGIO90TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202007/20200713/2020071308075855230v.png",Regio90TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=141434660&format=mpd
+#EXTINF:-1 tvg-id="252058638" tvg-name="3103_LANDVANCUIJK" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202203/20220314/11/20220314124729071ads.png",Land van Cuijk TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=252058638&format=mpd
+#EXTINF:-1 tvg-id="580748354" tvg-name="3103_OMROEP_ZULTHE_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202110/20211028/79/202110281103488769zy.png",Omroep Zulthe TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=580748354&format=mpd
+#EXTINF:-1 tvg-id="1247091515" tvg-name="3103_OMROEP_LINGEWAARD" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220721/36/20220721142725588qkk.jpg",Omroep Lingewaard
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1247091515&format=mpd
+#EXTINF:-1 tvg-id="1247091476" tvg-name="3103_TV_AALSMEER" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220721/22/20220721142614788ccv.png",TV Aalsmeer
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1247091476&format=mpd
+#EXTINF:-1 tvg-id="1247225869" tvg-name="3103_RTV_ZEEWOLDE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220721/36/20220721142455672hc2.jpg",RTV Zeewolde
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1247225869&format=mpd
+#EXTINF:-1 tvg-id="1247230641" tvg-name="3103_RTV_HOLLANDS_MIDDEN" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202207/20220721/7/202207211424047870xu.jpg",RTV Hollands Midden
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1247230641&format=mpd
+#EXTINF:-1 tvg-id="1127013062" tvg-name="3103_LOVOMTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202201/20220124/0/20220124133701868vi4.png",LOVO - MTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1127013062&format=mpd
+#EXTINF:-1 tvg-id="1127016560" tvg-name="3103_LANDSMEERTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202201/20220124/89/20220124133836840440.png",Landsmeer TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1127016560&format=mpd
+#EXTINF:-1 tvg-id="1131357665" tvg-name="3103_GOUWESTADTV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202201/20220124/65/2022012411160167239j.png",Gouwestad TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1131357665&format=mpd
+#EXTINF:-1 tvg-id="1154012386" tvg-name="3103_TVAAENHUNZE" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202203/20220302/1/20220302133032042yrm.jpg",TV AA en Hunze
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1154012386&format=mpd
+#EXTINF:-1 tvg-id="1264995528" tvg-name="3103_TV_OMROEP_DELFT" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202208/20220830/71/20220830112115578v3r.png",Omroep Delft
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1264995528&format=mpd
+#EXTINF:-1 tvg-id="1308431386" tvg-name="3103_TV_ACCENT_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202212/20221213/20/20221213091309429nmq.png",Accent TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1308431386&format=mpd
+#EXTINF:-1 tvg-id="1312401917" tvg-name="3103_RTV80_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202212/20221223/6/20221223100043879fzv.png",RTV80
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1312401917&format=mpd
+#EXTINF:-1 tvg-id="1369970644" tvg-name="3103_RTV_GO!" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202303/20230314/90/20230314073452159z9f.png",RTV GO!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1369970644&format=mpd
+#EXTINF:-1 tvg-id="1353775359" tvg-name="3103_Midvliet_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202302/20230223/4/202302231109591031ot.jpg",Midvliet TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1353775359&format=mpd
+#EXTINF:-1 tvg-id="1417453654" tvg-name="3103_Weststellingwerf_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202304/20230428/58/20230428131846127reg.png",Weststellingwerf TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1417453654&format=mpd
+#EXTINF:-1 tvg-id="1484967862" tvg-name="3103_Centraal_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202307/20230703/62/202307030942463429f8.png",Centraal TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1484967862&format=mpd
+#EXTINF:-1 tvg-id="1574621144" tvg-name="3103_Vughtse_Omroep" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202311/20231107/10/20231107124707305wj5.png",Vughtse Omroep
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1574621144&format=mpd
+#EXTINF:-1 tvg-id="1577534580" tvg-name="3103_OSU_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202312/20231212/52/202312120951110394wj.png",OSU TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1577534580&format=mpd
+#EXTINF:-1 tvg-id="1583241213" tvg-name="3103_RTV_Parkstad_TV" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202402/20240220/64/202402200757003659ou.png",RTV Parkstad TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1583241213&format=mpd
+#EXTINF:-1 tvg-id="1584033453" tvg-name="3103_1_Achterhoek" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202402/20240229/64/20240229130846707m9f.png",1Achterhoek
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1584033453&format=mpd
+#EXTINF:-1 tvg-id="1586823867" tvg-name="3103_LOKAAL7" tvg-logo="https://tv.odido.nl:443/CPS/images/universal/film/logo/202404/20240404/48/20240404114754969wpo.png",Lokaal7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://127.0.0.1:5000/api/channel?id=1586823867&format=mpd
